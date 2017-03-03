@@ -38,7 +38,7 @@ if(isset($_GET['k'])){
 	if($title=='') { $title = 'Gitlab Notification';}
 	if($message=='') { $message = 'no content ';}
 	
-	$pushurl = 'https://www.pushsafer.com/data/push-send';
+	$pushurl = 'https://www.pushsafer.com/api';
 	$data = array(
 		'k' => $private_key,
 		'm' => $message,
