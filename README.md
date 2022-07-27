@@ -9,6 +9,9 @@ Webhooks can be used for binding events when something is happening within the p
 - Windows 10 Phone & Desktop
 - Browser (Chrome & Firefox)
 
+## Download
+https://github.com/appzer/gitlab-pushsafer/
+
 ## Usage
 1. open the desired project
 2. open the settings dropdown
